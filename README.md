@@ -11,6 +11,6 @@ This study examined whether certain game attributes are correlated with the numb
 
 1. ProjectPaper_ChungD.pdf - Formal report that explains the clustering (unsupervised learning) and factor analysis phases of my project. 
 
-2. NFL Stadium Arrests.ipynb - iPython Jupyter Notebook that contains code used to clean/prepare the data for analysis and conduct k-means clustering and factor analysis. The code in the notebook is also annotated with summaries that elaborate on the major takeaways from the k-means clustering and factor analysis. 
+2. NFL Stadium Arrests.ipynb - iPython Jupyter Notebook that contains code used to clean/prepare the data for analysis and conduct k-means clustering and factor analysis. The code in the notebook is structured as an "interactive" report and is also annotated with summaries that elaborate on the major takeaways from the k-means clustering and factor analysis. 
 
 3. arrests.csv - Raw CSV data file used for the project. 
